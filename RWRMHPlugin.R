@@ -20,6 +20,3 @@ output <- function(outputfile) {
    write.csv(myResults$RWRM_Results, outputfile)
 }
 
-input("parameters.txt")
-run()
-output("results.csv")
