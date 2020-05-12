@@ -1,0 +1,2 @@
+inputfile	plugins/RWRMH/example/PPI.csv
+seedgene	PIK3R1

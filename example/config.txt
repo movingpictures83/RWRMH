@@ -1,0 +1,2 @@
+Prefix plugins/RWRMH/example/
+Plugin RWRMH inputfile parameters.txt outputfile results.csv
