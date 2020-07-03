@@ -1,8 +1,9 @@
-# TimeWarp
-# Language: RWRMH
+# RWRMH
+# Language: R
 # Input: TXT (parameters)
 # Output: CSV (nodes and scores)
-# Tested with: PluMA 1.0, R 3.5
+# Tested with: PluMA 1.1, R 4.0.0
+# Dependency: igraph_1.2.5, RandomWalkRestartMH_1.8.0
 
 PluMA plugin that runs the Random Walk with Restart
 on Multiplex and Heterogeneous biological networks (RWR-MH, 
